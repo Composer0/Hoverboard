@@ -4,7 +4,7 @@
 }
 
 body {
-    background: #111;
+    background-image: linear-gradient(135deg, rgb(0, 0, 0), rgb(19, 88, 121), #702963);
     font-family: 'Roboto', sans-serif;
     display:flex;
     flex-direction: column;
