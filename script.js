@@ -1,6 +1,6 @@
 const container = document.getElementById('container');
 const colors = ['navy', 'green', '#3498db', 'rebeccapurple', 'red', 'orange', 'silver', '#bfd401'];
-const SQUARES = 500;
+const SQUARES = 250;
 
 for(let i = 0; i < SQUARES; i++) {
     const square = document.createElement('div')
